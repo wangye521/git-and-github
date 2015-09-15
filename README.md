@@ -1,5 +1,7 @@
 #Git & GitHub
 
+## Due: Sept. 25, 3 p.m.
+
 The purpose of this exercise is to see that you can work with files using git and getting them GitHub. It is also designed to get you prepared to submit your first project.
 
 By now you should have GitHub Desktop installed on your computer and registered for a GitHub account.
@@ -12,6 +14,20 @@ Before you begin this exercise, make sure you have done the following:
 If you fail to complete the first task listed above, I will not know who submitted the tasks below and **you will receive a zero (0)**. If you do not complete the latter, your web page will not work and **you will receive a zero (0)**. (And you will *still* have to do this all over again to submit the first project.)
 
 **SUGGESTION:** If you can follow instructions (and being at a top university, you *should* be able to), this should be an easy assignment. Print out this page and mark off each step as you finish it. This will provide you with an assurance that you have completed what is being asked of you.
+
+
+### Grading
+
+This assignment is due **Sept. 25, 2015 at 3 p.m.** If it is submitted at Sept. 25, 2015 at 3:00:01 p.m., it will be deemed late. Two (2)
+points will be deducted for each day the assignment is late.
+
+Each section of this exercise is worth five (5) points. Failure to complete the section(s) as instructed will result in a zero (0).
+
+If you are concerned about the *content* being submitted, please don't hesitate to view examples I have provided in my account. These provide an example of a correctly submitted assignment. (But remember, do not copy and paste the code and/or content; that's forbidden and will be deemed plagiarism.)
+
+- [git-and-github](https://github.com/thegeekprof/git-and-github)
+- thegeekprof.github.io: [repo](https://github.com/thegeekprof/thegeekprof.github.io), [site](http://thegeekprof.github.io)
+
 
 ### What is Git?
 
@@ -80,11 +96,4 @@ If terminology seems confusing, please refer to the [GitHub Glossary](https://he
 8. Open your web browser and visit `http://username.github.io` (again, where username is *your* username). Your simple web page should appear.
 
 
-### Grading
-
-Each section of this exercise is worth five (5) points. Failure to complete the section(s) as instructed will result in a zero (0).
-
-If you are concerned about the *content* being submitted, please don't hesitate to view examples I have provided in my account. These provide an example of a correctly submitted assignment. (But remember, do not copy and paste the code and/or content; that's forbidden and will be deemed plagiarism.)
-
-- [git-and-github](https://github.com/thegeekprof/git-and-github)
-- thegeekprof.github.io: [repo](https://github.com/thegeekprof/thegeekprof.github.io), [site](http://thegeekprof.github.io)
+**That's it!**
