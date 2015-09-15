@@ -11,6 +11,7 @@ Before you begin this exercise, make sure you have done the following:
 
 If you fail to complete the first task listed above, I will not know who submitted the tasks below and **you will receive a zero (0)**. If you do not complete the latter, your web page will not work and **you will receive a zero (0)**. (And you will *still* have to do this all over again to submit the first project.)
 
+**SUGGESTION:** If you can follow instructions (and being at a top university, you *should* be able to), this should be an easy assignment. Print out this page and mark off each step as you finish it. This will provide you with an assurance that you have completed what is being asked of you.
 
 ### What is Git?
 
