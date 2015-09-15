@@ -1,6 +1,6 @@
 #Git & GitHub
 
-## Due: Sept. 25, 3 p.m.
+## Due: Sept. 25, 2015, 3 p.m.
 
 The purpose of this exercise is to see that you can work with files using git and getting them GitHub. It is also designed to get you prepared to submit your first project.
 
