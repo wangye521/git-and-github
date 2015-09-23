@@ -2,15 +2,16 @@ Answer the following questions:
 
 
 1. What is your favorite local restaurant?
-
+Izakaya
 
 2. Name the last good book you read (title, author?).
-
+The $100 Start up by Chris Guillebeau
 
 3. Which album/artist is in heavy rotation on your iPod/iPhone/MP3 player/stream?
-
+Jay Chou (Chinese pop singer)
 
 4. Which text/code editor did you decide to use?
-
+Sublime text
 
 5. If you were to build a web site for fun, what would it be about?
+A food map
